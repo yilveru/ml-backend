@@ -53,14 +53,14 @@ Esto levantará un contenedor de PostgreSQL con la configuración definida en `d
 npm run start:dev
 ```
 
-El backend estará disponible en `http://localhost:3000`.
+El backend estará disponible en `https://ml-backend-production-1711.up.railway.app`.
 
 ## 📖 Documentación con Swagger
 
 Después de ejecutar el backend, accede a la documentación de las APIs en:
 
 ```
-http://localhost:3000/api/docs
+https://ml-backend-production-1711.up.railway.app/api/docs
 ```
 
 ## 🌎 Despliegue en Railway
