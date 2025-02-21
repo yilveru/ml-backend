@@ -20,7 +20,7 @@ async function bootstrap() {
       } else {
         callback(new Error('Blocked by CORS'));
       }
-    },,
+    },
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     allowedHeaders: 'Content-Type, Authorization',
   });
