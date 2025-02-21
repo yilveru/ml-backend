@@ -9,7 +9,7 @@ async function bootstrap() {
 
   const allowedOrigins = [
     'http://localhost:5173',
-    'https://yilveru.github.io/ml-frontend/',
+    'https://yilveru.github.io',
   ];
 
   // Enable cors
